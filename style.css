@@ -2,6 +2,7 @@ body{
  text-align: center;
  background: linear-gradient(#03fc20 0%, #0307fc 100%);
   background-repeat: no-repeat;
+    font-size: 20px;
 }
 
 img{
@@ -26,3 +27,4 @@ h1{
 links:hover{
     color: dodgerblue;
 }
+
